@@ -75,7 +75,7 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 
 Instructions for this project:
-->    Clone this project
+	->    Clone this project
 	->    Run command: cp .prod.env .env
 	->    Configure the below mentioned fields as per your config
 			MONGODB_DATABASE	-	database name
